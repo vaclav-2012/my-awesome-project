@@ -1,7 +1,7 @@
 # my-awesome-project
 
-[![Build Status](https://travis-ci.com/just-a-test/my-awesome-project.svg?branch=master)](https://travis-ci.com/just-a-test/my-awesome-project)
-[![Coverage](https://coveralls.io/repos/github/just-a-test/my-awesome-project/badge.svg?branch=master)](https://coveralls.io/github/just-a-test/my-awesome-project?branch=master)
+[![Build Status](https://travis-ci.org/vaclav-2012/my-awesome-project.svg?branch=master)](https://travis-ci.org/vaclav-2012/my-awesome-project)
+[![Coverage](https://coveralls.io/repos/github/vaclav-2012/my-awesome-project/badge.svg?branch=master)](https://coveralls.io/github/vaclav-2012/my-awesome-project?branch=master)
 [![Python Version](https://img.shields.io/pypi/pyversions/my-awesome-project.svg)](https://pypi.org/project/my-awesome-project/)
 [![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
 
@@ -34,7 +34,7 @@ print(some_function(3, 4))
 
 ## License
 
-[MIT](https://github.com/just-a-test/my-awesome-project/blob/master/LICENSE)
+[MIT](https://github.com/vaclav-2012/my-awesome-project/blob/master/LICENSE)
 
 
 ## Credits

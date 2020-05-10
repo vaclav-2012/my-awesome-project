@@ -3,9 +3,13 @@
 We follow [Semantic Versions](https://semver.org/).
 
 
+## Version 0.1.3
+
+- Add command to show version
+
 ## Version 0.1.2
 
-- Set up the cli command
+- Set up the CLI command
 
 ## Version 0.1.1
 

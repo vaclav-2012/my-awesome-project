@@ -80,11 +80,12 @@ Before submitting your code please do the following steps:
 2. Add any changes you want
 3. Add tests for the new changes
 4. Edit documentation if you have changed something significant
-5. Update `CHANGELOG.md` with a quick summary of your changes
-6. Run `pytest` again to make sure it is still working
-7. Run `mypy` to ensure that types are correct
-8. Run `flake8` to ensure that style is correct
-9. Run `doc8` to ensure that docs are correct
+5. Update version in `pyproject.toml` when needed
+6. Update `CHANGELOG.md` with a quick summary of your changes
+7. Run `pytest` again to make sure it is still working
+8. Run `mypy` to ensure that types are correct
+9. Run `flake8` to ensure that style is correct
+10. Run `doc8` to ensure that docs are correct
 
 
 ## Other help

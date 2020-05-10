@@ -5,7 +5,7 @@ import pytest
 from my_awesome_project.example import some_function
 
 
-@pytest.mark.parametrize(('first', 'second', 'expected'), [
+@pytest.mark.parametrize(("first", "second", "expected"), [
     (1, 2, 3),
     (2, 4, 6),
     (-2, -3, -5),

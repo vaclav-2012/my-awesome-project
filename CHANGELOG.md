@@ -3,6 +3,10 @@
 We follow [Semantic Versions](https://semver.org/).
 
 
+## Version 0.1.2
+
+- Set up the cli command
+
 ## Version 0.1.1
 
 - Use double quotes for string literals

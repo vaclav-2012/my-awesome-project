@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/happy_shion.gif" />
+</p>
+
 # my-awesome-project
 
 [![Build Status](https://travis-ci.org/vaclav-2012/my-awesome-project.svg?branch=master)](https://travis-ci.org/vaclav-2012/my-awesome-project)

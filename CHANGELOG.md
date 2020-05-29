@@ -3,6 +3,10 @@
 We follow [Semantic Versions](https://semver.org/).
 
 
+## Version 0.1.4
+
+- Add image to the Readme
+
 ## Version 0.1.3
 
 - Add command to show version

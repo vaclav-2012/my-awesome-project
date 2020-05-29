@@ -9,7 +9,7 @@ style = "https://raw.githubusercontent.com/wemake-services/wemake-python-stylegu
 
 [tool.poetry]
 name = "my-awesome-project"
-version = "0.1.3"
+version = "0.1.4"
 description = "This is how python package should look like!"
 license = "MIT"
 

@@ -3,6 +3,11 @@
 We follow [Semantic Versions](https://semver.org/).
 
 
+## Version 0.1.6
+
+- Add another test
+
+
 ## Version 0.1.5
 
 - Various fixes
